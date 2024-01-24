@@ -56,26 +56,44 @@ This project represents a significant step towards leveraging data-driven strate
   <img src="https://github.com/Tahascommit/Health_Insurance_Cross_Sell_Prediction/blob/78bf96ce69f8cb662d9a35c5ba612065f9c1e0a6/assets/ROC_AUC_All_Models.png" width="703" height="340">
 </p>
 
+1. 
 Logistic Regression Precision: 0.250
+
 Logistic Regression Recall: 0.975
+
 Logistic Regression F1 Score: 0.397
--------------------------------------------------
+
+2.
 Naive Bayes Precision: 0.250
+
 Naive Bayes Recall: 0.975
+
 Naive Bayes F1 Score: 0.397
--------------------------------------------------
+
+3.
 Decision Tree Precision: 0.287
+
 Decision Tree Recall: 0.317
+
 Decision Tree F1 Score: 0.301
--------------------------------------------------
+
+4. 
 Random Forest Precision: 0.334
+
 Random Forest Recall: 0.329
+
 Random Forest F1 Score: 0.331
--------------------------------------------------
+
+5.
 Gradient Boosting Precision: 0.290
+
 Gradient Boosting Recall: 0.874
+
 Gradient Boosting F1 Score: 0.435
--------------------------------------------------
+
+6. 
 XGBoost Precision: 0.310
+
 XGBoost Recall: 0.724
+
 XGBoost F1 Score: 0.434
