@@ -51,7 +51,7 @@ This project represents a significant step towards leveraging data-driven strate
 5. Gradient Boosting
 6. XGBoost
 
-### Model Evaluation (ROC-AUC):
+### Model Evaluation:
 <p align="center">
   <img src="https://github.com/Tahascommit/Health_Insurance_Cross_Sell_Prediction/blob/78bf96ce69f8cb662d9a35c5ba612065f9c1e0a6/assets/ROC_AUC_All_Models.png" width="703" height="340">
 </p>
