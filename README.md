@@ -52,7 +52,7 @@ This project represents a significant step towards leveraging data-driven strate
 6. XGBoost
 
 ### Model Evaluation:
-<p align="center">
+<p>
   <img src="https://github.com/Tahascommit/Health_Insurance_Cross_Sell_Prediction/blob/78bf96ce69f8cb662d9a35c5ba612065f9c1e0a6/assets/ROC_AUC_All_Models.png" width="703" height="340">
 </p>
 
@@ -97,3 +97,7 @@ XGBoost Precision: 0.310
 XGBoost Recall: 0.724
 
 XGBoost F1 Score: 0.434
+
+#### Predicting Probability and Class for new data with trained model:
+
+<img src="https://github.com/Tahascommit/Health_Insurance_Cross_Sell_Prediction/blob/0aa6d00d5016c2fc62ac748b5335c4c9d1b5d60d/assets/Predicting_probs_Binary.png" width="703" height="340">
