@@ -42,7 +42,7 @@ Conclusion
 
 This project represents a significant step towards leveraging data-driven strategies to expand market offerings and enhance customer targeting for insurance products. Our predictive model serves as a tool for the insurance company to identify prospective Vehicle Insurance customers, thereby optimizing their marketing efforts and contributing to overall business growth.
 
-#### Models used for Classification:
+### Models used for Classification:
 
 1. Logistic Regression
 2. Naive Bayes
@@ -51,7 +51,7 @@ This project represents a significant step towards leveraging data-driven strate
 5. Gradient Boosting
 6. XGBoost
 
-#### Model Evaluation (ROC-AUC):
+### Model Evaluation (ROC-AUC):
 <p align="center">
   <img src="https://github.com/Tahascommit/Health_Insurance_Cross_Sell_Prediction/blob/78bf96ce69f8cb662d9a35c5ba612065f9c1e0a6/assets/ROC_AUC_All_Models.png" width="703" height="340">
 </p>
