@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
   <img src="https://github.com/Tahascommit/Health_Insurance_Cross_Sell_Prediction/blob/bc7807b3ece22fa82722d3f57c6c0883e6155624/assets/Health-cross-sell.png" width="703" height="340">
 </p >
 
