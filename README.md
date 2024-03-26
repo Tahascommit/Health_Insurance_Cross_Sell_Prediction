@@ -3,7 +3,7 @@
 </p >
 
 
-# Health_Insurance_Cross_Sell_Prediction (GPU Required)
+# Health Insurance Cross Sell Prediction (GPU Required)
 
 Overview
 --------
